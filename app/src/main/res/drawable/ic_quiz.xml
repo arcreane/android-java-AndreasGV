@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fond circulaire violet -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M54,0
+            C83.9,0 108,24.1 108,54
+            C108,83.9 83.9,108 54,108
+            C24.1,108 0,83.9 0,54
+            C0,24.1 24.1,0 54,0z" />
+    <!-- Point d'interrogation blanc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,27c-8.8,0 -15,6.2 -15,15h6c0,-4.4 3.6,-8 9,-8s9,3.6 9,8c0,4 -4,7 -7,9l-2,1c-4,2 -6,4 -6,7v3h6v-3c0,-2 2,-3 4,-4l2,-1c4,-2 8,-5 8,-10c0,-7.8 -6.2,-14 -14,-14zM54,81c-2.2,0 -4,-1.8 -4,-4s1.8,-4 4,-4s4,1.8 4,4S56.2,81 54,81z" />
+</vector>
