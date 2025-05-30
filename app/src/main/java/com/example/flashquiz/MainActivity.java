@@ -66,8 +66,8 @@ public class MainActivity extends AppCompatActivity {
     //***********************************************************
     private void scheduleDailyNotification() {
         Calendar calendar = Calendar.getInstance();
-        calendar.set(Calendar.HOUR_OF_DAY, 16);
-        calendar.set(Calendar.MINUTE, 0);
+        calendar.set(Calendar.HOUR_OF_DAY, 9);
+        calendar.set(Calendar.MINUTE, 55);
         calendar.set(Calendar.SECOND, 0);
 
         // Si l'heure est passée aujourd'hui programmer pour demain
